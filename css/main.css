@@ -27,6 +27,13 @@ body{
 	background-color: papayawhip;
 }
 
+a {
+	color: dimgray;
+	font-style: italic;
+	text-decoration: none;
+	text-transform: uppercase;
+
+}
 nav{
 	text-align: center;
 	padding: 5px;
@@ -66,18 +73,30 @@ nav a:hover{
 }
 
 .sigil{
-	width: 55%;
+	width: 75%;
 	margin: auto;
 	text-align: center;
     font-style: italic;
     font-size: .85em;
 	
 }
+.doublesigil{
+	width: 100%;
+	display: inline-table;
+	margin: auto;
+	text-align: center;
+    font-style: italic;
+    font-size: .85em;
+	
+}
+.doublesigil img{
+}
 
 .sigil-small{
 	margin: auto;
 	width: 33.333%;
 }
+
 
 h1{
 	font-family:"bodoni-urw", sans-serif;
@@ -102,10 +121,7 @@ h3{
 	text-transform: uppercase;
 	letter-spacing: .25em;
 }
-a{
-	text-decoration: none;
-	color: black;
-}
+
 strong{
 	font-weight: 500;
 	font-style: italic;

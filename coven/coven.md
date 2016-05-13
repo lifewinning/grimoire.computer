@@ -5,6 +5,8 @@ permalink: /covens/
 toc: True
 ---
 
+For more detailed descriptions of specific actors of the Realm, review [Stories of the Coven](coven-stories).
+
 ## The Coven
 **The Coven** refers to the many orders, sects, and guilds that work to enable Rough Telepathy. These maintain instruments of divination, keep records, interface between the Warring Kingdoms and the Merchants, store the Unique Runes and Talismans, and write and test spells that govern The Realm. 
 
@@ -16,24 +18,13 @@ toc: True
 
 **Orders and Sects** are formed around shared concerns. They rely on the material foundation produced by the Alchemists, which provides the necessary environment in which to accomplish their spellcasting and record keeping. They are often engaged in the care and maintenance of specific spells. Some members spend their life tinkering deeply with a single spell, while others are affiliated with of multiple Orders and Sects. 
 
-## Ritual Festivals
-
-**The Ritual Festivals** are the regular ceremonies that bind members of various orders, sects, and guilds across the Coven. Each has its preferred temples of practice, worship, and creation, but all engage in ritual festivals. Ostensibly these festivals serve as fora for discussion of the standardizing and testing of spells, the ratification occult protocol, and for building consensus on key technical and political concerns of The Realm. However, the festivals are often equally focused on carnivalesque gallivanting, bawdy jokes, and copious alcohol drinking. The osmotic layer of sociality is as powerful a factor in determining the future of The Realm as are the spells themselves. Examples of Ritual Festivals include IETF meetings, NANOG meetings, RIPE meetings, ICANN meetings, IGF and ITU conferences, Shmoocon and various Cons, and a seemingly ceaseless string regional gatherings and workshops. 
-
-
 ## Merchants
 
 **Merchants** are a mercantile class who harnessed the power of Rough Telepathy as a global force for commerce and trade in the mid 1990s, subverting and surpassing the scope and vision laid out by the early members of the Coven. The Merchants are now more powerful than The Coven, and have absorbed many of its members. However, the foundational spells and ritual magic that enables Rough Telepathy is still in use, maintained by Coven members with material support and direction from the Merchants and occasional Warring Kingdoms. The Merchants’ ascent happened suddenly -- in the late 1990’s those participating in Rough Telepathy grew 10,000% in just a few years, driven by the new uses of Rough Telepathy pioneered by the Merchants. This change took many in the Coven by surprise, some delighted, some skeptical. Whatever their reaction, the impact of this change on the power and relevance of the Coven has not been acknowledged by many of its key Orders and early members, resulting in hidebound rituals decreasingly tied to the day-to-day practice of Rough Telepathy. The Merchants have constructed vast private temples of worship, concentrated near San Jose California, most of which exude the drab chipperness of a rich man eager to be congratulated for driving a moderately-priced car. 
 
 ## The Fiefdoms 
 
- <div class="item">
- <div class="sigil">
-	<img src="../img/sigilsvg/peering.svg" width="100%" />
-	<caption>A Traditional <a href="../sigils/peering/">Peering Sigil of a Shadow Fiefdom</a></caption>
-</div>
-
-</div>
+See also the [Sigil of the Peering Agreement](../sigils/peering/)
 
 **Fiefdoms** bring Rough Telepathy to the masses, often acting as an interface between the daily participant in Rough Telepathy -- regular individuals engaging in commerce or long-distance jokes -- and various segments of The Coven. Each Fiefdom is individually responsible for the maintenance of alchemical infrastructure and the incantation of the spells necessary for Rough Telepathy in its region. To enable Rough Telepathy globally for all participants, Fiefdoms commit to connect with one another across the borders of Warring Kingdoms, a practice referred to as a peer relationship. Fiefdoms can be ruled variously by Merchants, Warring Kingdoms, or Coven members -- the only requirement to becoming a Fiefdom is that one incant the spells correctly (the test of which is the possibility of Rough Telepathy across Fiefdom boundaries), obtain alchemical infrastructure, and acquire unique runes from the local Regional Telepathy Registry. There are two basic categories of Fiefdom, and some Fiefdoms fit in both categories: 
 
