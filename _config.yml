@@ -1,0 +1,10 @@
+# Site settings
+title: grimoire.computer
+email: lifewinning@gmail.com
+description: a grimoire
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://grimoire.computer" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown

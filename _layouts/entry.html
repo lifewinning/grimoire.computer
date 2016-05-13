@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class = "item">
+  <h1>{{ page.title }}</h1>
+   {% if page.sigil %}
+ <div class="sigil">
+	<img src="../../img/sigilsvg/{{ page.sigil }}" width="100%" />
+</div>
+ {% endif %}
+  {% if page.toc %}
+  <nav></nav>
+  {% endif %}
+  </div>
+</div>
+<div class="item">
+  {{ content }}
+</div>
+<script type="text/javascript">
+	toc_list = []
+	hdrs = document.querySelectorAll('h2')
+	for (var i = hdrs.length - 1; i >= 0; i--) {
+		obj = {}
+		obj.id = hdrs[i].id
+		obj.txt = hdrs[i].innerHTML
+		toc_list.push(obj)
+	}
+	toc_list.reverse()
+	toc_list.forEach(function(e) {
+		a = document.createElement('a')
+		a.href='#'+e.id
+		a.innerHTML = e.txt
+		a.class = 'toc'
+		toc = document.querySelector('nav')
+		toc.appendChild(a)
+	})
+
+</script>

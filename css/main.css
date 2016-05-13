@@ -1,0 +1,122 @@
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+    
+}
+
+body{
+	background-color: papayawhip;
+}
+
+nav{
+	text-align: center;
+	padding: 5px;
+}
+nav a{
+	text-transform:uppercase;
+	font-family:"bodoni-urw", sans-serif;
+	color:black;
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+nav a:hover{
+	color: lightgray;
+}
+.container{
+	display:flex;
+	flex-direction: column;
+	flex-flow: row wrap;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.item{
+	flex: 2;
+	margin: auto; 
+	//width: 95%; 
+	height: auto;
+	padding: 15px;
+	padding-left: 12.5%;
+	padding-right: 12.5%;
+	//background-color: papayawhip;
+	// text-align:center;
+}
+
+.sigil{
+	width: 55%;
+	margin: auto;
+	text-align: center;
+    font-style: italic;
+    font-size: .85em;
+	
+}
+
+.sigil-small{
+	margin: auto;
+	width: 33.333%;
+}
+
+h1{
+	font-family:"bodoni-urw", sans-serif;
+	font-weight: 800;
+	text-transform: uppercase;
+	letter-spacing: .25em;
+	text-align: center;
+}
+
+h2{
+	font-family:"bodoni-urw", sans-serif;
+	text-align: center;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: .25em;
+}
+
+h3{
+	font-family:"bodoni-urw", sans-serif;
+	text-align: center;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: .25em;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+strong{
+	font-weight: 500;
+	font-style: italic;
+}
+
+p{
+	font-family:"bodoni-urw", sans-serif;
+}
+
+caption{
+	text-align: center;
+	size: .75em;
+}
+
