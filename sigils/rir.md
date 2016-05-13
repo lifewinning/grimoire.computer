@@ -1,13 +1,13 @@
 ---
 layout: entry
-title: Agreements of the Visible and Shadow Fiefdoms
-sigil: peering.svg
-permalink: /sigils/peering/
+title: The Regional Telepathy Registries
+sigil: rir_sigil.svg
+permalink: /sigils/rir/
 ---
 
 This is a typical sigil representing the formation of a peer relationship between a central Shadow Fiefdom. Peer relationships can be *upstream* or *downstream*, and in the traditional sigil form appear in order of most adjacent proximity. 
 
-**Fiefdoms** bring Rough Telepathy to the masses, often acting as an interface between the daily participant in Rough Telepathy -- regular individuals engaging in commerce or long-distance jokes -- and various segments of The Coven.Each Fiefdom is individually responsible for the maintenance of alchemical infrastructure and the incantation of the spells necessary for Rough Telepathy in its region. To enable Rough Telepathy globally for all participants, Fiefdoms commit to connect with one another across the borders of Warring Kingdoms, a practice referred to as a peer relationship. Fiefdoms can be ruled variously by Merchants, Warring Kingdoms, or Coven members -- the only requirement to becoming a Fiefdom is that one incant the spells correctly (the test of which is the possibility of Rough Telepathy across Fiefdom boundaries), obtain alchemical infrastructure, and acquire unique runes from the local Regional Telepathy Registry. 
+**Fiefdoms **bring Rough Telepathy to the masses, often acting as an interface between the daily participant in Rough Telepathy -- regular individuals engaging in commerce or long-distance jokes -- and various segments of The Coven.** **Each Fiefdom is individually** **responsible for the maintenance of alchemical infrastructure and the incantation of the spells necessary for Rough Telepathy in its region. To enable Rough Telepathy globally for all participants, Fiefdoms commit to connect with one another across the borders of Warring Kingdoms, a practice referred to as a peer relationship. Fiefdoms can be ruled variously by Merchants, Warring Kingdoms, or Coven members -- the only requirement to becoming a Fiefdom is that one incant the spells correctly (the test of which is the possibility of Rough Telepathy across Fiefdom boundaries), obtain alchemical infrastructure, and acquire unique runes from the local Regional Telepathy Registry. 
 
 There are two basic categories of Fiefdom, and some Fiefdoms fit in both categories: 
 

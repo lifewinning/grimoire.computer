@@ -18,7 +18,7 @@ layout: default
 </div>
  {% endif %}
   {% if page.toc %}
-  <nav></nav>
+  <nav id="toc"></nav>
   {% endif %}
   </div>
 </div>
@@ -40,7 +40,7 @@ layout: default
 		a.href='#'+e.id
 		a.innerHTML = e.txt
 		a.class = 'toc'
-		toc = document.querySelector('nav')
+		toc = document.querySelector('#toc')
 		toc.appendChild(a)
 	})
 

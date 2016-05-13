@@ -1,7 +1,7 @@
 ---
 layout: entry
 title: The Timekeepers
-sigil: npt.svg
+sigil: ntp.svg
 permalink: /sigils/timekeepers/
 ---
 
