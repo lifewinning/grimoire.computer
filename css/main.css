@@ -73,11 +73,23 @@ nav a:hover{
     font-size: .85em;
 	
 }
+.doublesigil{
+	width: 100%;
+	display: inline-table;
+	margin: auto;
+	text-align: center;
+    font-style: italic;
+    font-size: .85em;
+	
+}
+.doublesigil img{
+}
 
 .sigil-small{
 	margin: auto;
 	width: 33.333%;
 }
+
 
 h1{
 	font-family:"bodoni-urw", sans-serif;
