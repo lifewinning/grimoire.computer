@@ -9,10 +9,10 @@ Ingrid and Meredith have worked feverishly/carefully to translate and interpret 
 
 ## Table of Contents
 
-### [Actors of the Realm](covens) 
+### [Actors of the Realm](covens/) 
 
-### [Instruments of the Realm](instruments)
+### [Instruments of the Realm](instruments/)
 
-### [Key Terms](terms)
+### [Key Terms](terms/)
 
-### [Sigils](sigils)
+### [Sigils](sigils/)

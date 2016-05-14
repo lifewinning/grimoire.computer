@@ -1,28 +1,5 @@
-/* Large Devices, Wide Screens */
-@media only screen and (max-width : 1200px) {
-
-}
-
-/* Medium Devices, Desktops */
-@media only screen and (max-width : 992px) {
-
-}
-
-/* Small Devices, Tablets */
-@media only screen and (max-width : 768px) {
-
-}
-
-/* Extra Small Devices, Phones */ 
-@media only screen and (max-width : 480px) {
-
-}
-
 /* Custom, iPhone Retina */ 
-@media only screen and (max-width : 320px) {
-    
-}
-
+@media only screen and (min-width : 320px) {
 body{
 	background-color: papayawhip;
 }
@@ -73,7 +50,7 @@ nav a:hover{
 }
 
 .sigil{
-	width: 75%;
+	width: 100%;
 	margin: auto;
 	text-align: center;
     font-style: italic;
@@ -89,12 +66,10 @@ nav a:hover{
     font-size: .85em;
 	
 }
-.doublesigil img{
-}
 
 .sigil-small{
 	margin: auto;
-	width: 33.333%;
+	width: 100%;
 }
 
 
@@ -134,5 +109,33 @@ p{
 caption{
 	text-align: center;
 	size: .75em;
+}    
 }
+
+@media only screen and (min-width : 768px) {
+
+.sigil{
+	width: 75%;
+	margin: auto;
+	text-align: center;
+    font-style: italic;
+    font-size: .85em;
+	
+}
+.doublesigil{
+	width: 100%;
+	display: inline-table;
+	margin: auto;
+	text-align: center;
+    font-style: italic;
+    font-size: .85em;
+	
+}
+
+.sigil-small{
+	margin: auto;
+	width: 33.333%;
+}
+}
+
 

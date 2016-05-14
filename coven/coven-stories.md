@@ -16,7 +16,7 @@ In spite of Postel’s early inclinations, the Order of ICANN is one of those mo
 
 In 2012 ICANN faced some of its harshest criticism from Coven members when it allowed Merchants and other groups to buy custom Talismans. Expanding the number of existing Talismans is a serious, expensive, and highly bureaucratic process with no clear benefit to The Realm. However, Merchants (and others) were keen not to be left out, and so rushed to pay ICANN large sums of money for the privilege of establishing Talismans representing their brands, their ideas, and their consumer products. Through this process ICANN acquired a considerable sum of money, for purposes heretofore undefined. The most grounded criticism of this move came from the Guardians, who argued that creation of new Talismans was incompatible with standard spellcasting, and would put participants at risk of Intrusive Telepathy. 
 
-**Inception: September 18, 1998 | Van Nuys, California, USA | Sun in Virgo, Saturn in Taurus.**
+Date and Location of Creation: September 18, 1998, Van Nuys, California, USA. Sun in Virgo, Saturn in Taurus.
 
 ## The IAB Order
 
@@ -26,27 +26,27 @@ Date and Location of Creation: September 1984, Malvern, UK
 
 ## The Regional Telepathy Registries Guild
 
-See also the corresponding [sigil](../sigils/rir/) of RIR cosmology.
+See also the corresponding [sigil](../../sigils/rir/) of RIR cosmology.
 
 **The Regional Telepathy Registries Guild** exists to allocate Unique Runes to Fiefdoms across five global member regions, and to track and set policies for such distribution. This commences under the watchful eye of IANA (and ICANN), who provide the guild with Unique Runes for allocation, and set general protocol. 
 
 With the shortage of Unique Runes v4, and the slow uptake in use of Unique Runes v6, the Regional Telepathy Guilds have come under pressure to revise processes to reflect the v4 shortage. Emblematic of this tension is the slow rise of a Merchant subclass, which has emerged on the outskirts of the guild with the purpose of brokering the sale of Unique Runes v4 between Fiefdoms with a surplus and Fiefdoms in need. This practice has been met with something between skepticism and outrage by many in the Coven, One of many cracks through which the declining power of the Coven in the face of the Merchant ascent can be viewed.  
 
-Names and Dates of Creation:
+Names and Dates of Registry Creation:
 
-RIPE: April 1992 | Amsterdam, NL
+RIPE: April 1992, Amsterdam, NL
 
-AFRINIC: 22 February 2005 | Ebene, Mauritius
+AFRINIC: 22 February 2005 Ebene, Mauritius
 
-APNIC: 13 January 1993 | Honolulu, HI
+APNIC: 13 January 1993 Honolulu, HI
 
-ARIN: 18 April 1997 | Chantilly, Virginia
+ARIN: 18 April 1997 Chantilly, Virginia
 
-LACNIC: 22 August 1999 | Santiago, Chile
+LACNIC: 22 August 1999 Santiago, Chile
 
 ## The Order of IETF
 
-The Order of IETF **does not exist. IETF members delight in saying this.
+**The Order of IETF** does not exist. IETF members delight in saying this.
 
 More accurately, the Order of ISOC shoulders the burden of material existence, doing the emotional and bureaucratic labor that allows the IETF to operate in the liminal realm of shadows, shifting in and out of existence and responsibility. 
 
@@ -54,7 +54,7 @@ The IETF gathers and dispurses at regular Ritual Festivals where members of the 
 
 Ritual and tradition are deeply and increasingly important to the IETF, a sign of its struggle in the face of waning power. The tradition of humming is one such precious incantation: those convened at an IETF Ritual Festival hum to approve or disapprove of a given spell or a specific change to the same. The tone and strength of the hum is taken as an indicator of the veracity the spell under consideration, and based on such it is approved or debate continues. 
 
-Date and Location of Creation: January 16, 1986 | Chicago
+Date and Location of Creation: January 16, 1986, Chicago
 
 ## The Order of W3C
 
@@ -64,11 +64,11 @@ This grimoire, for instance, uses HTML to display this vision to you.
 
 While the W3C exists for the primary purpose of maintaining and shaping HTML, the Merchants have had far greater influence on how HTML works today than has W3C, whose collective imaginations veered for a time into arcane cult magic known as Semantic Web. While this cult magic has many valuable features, it did not attend to the needs of the Merchants, who worked to develop HTML to reliably display their complex visions to customers. 
 
-Date and Location of Creation: 1 October 1994 | Cambridge, Massachusetts
+Date and Location of Creation: 1 October 1994, Cambridge, Massachusetts
 
 ## The Alchemist Guild
 
-See also the corresponding [sigil of the Alchemists](../sigils/alchemy/).
+See also the corresponding [sigil of the Alchemists](../../sigils/alchemy/).
 
 **The Alchemist Guild** creates the material foundation of The Realm. Spells would not work, The Unique Runes would be useless, and Rough Telepathy would become once again an idle fantasy without the Alchemists Guild. 
 
@@ -80,7 +80,7 @@ The work of alchemical production spans the planet, from mines in the Warring Ki
 
 ## The Timekeepers Sect
 
-See also the corresponding [sigil of the Timekeepers](../sigils/timekeepers/).
+See also the corresponding [sigil of the Timekeepers](../../sigils/timekeepers/).
 
 **The Timekeepers Sect** is a rough group formed out of The Priests of The West and dedicated to documenting and maintaining the Network Time Protocol (NTP), one of the core spells responsible for binding the Realm in coherence. NTP synchronizes time, creating a web of shared reality across the Realm. This is the essential condition for trust and communication among participants of Rough Telepathy. Without NTP (or its equivalent functional spell) fear, fractiousness, and dissolution of the Realm would be inevitable.  
 
@@ -94,7 +94,7 @@ David Mills, founder of the Timekeepers Sect, debuted NTP as a functional spell 
 
 ## The Numberkeepers Sect
 
-See also the corresponding [Sigils of Unique Runes](../sigils/runes)
+See also the corresponding [Sigils of Unique Runes](../../sigils/runes/)
 
 **The Numberkeepers Sect** is responsible for the maintenance of the Unique Runes. A unique rune is the necessary condition for participation in Rough Telepathy.
 
