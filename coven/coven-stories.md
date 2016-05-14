@@ -6,7 +6,7 @@ toc: True
 ---
 
 
-##The Order of ICANN
+## The Order of ICANN
 
 **The Order of ICANN** is an often fractious Order that acts as protectorate of the IANA Sect, which is responsible for the distribution of Unique Runes to the Regional Telepathy Registries, the assignment of Talismans, tracking of Runic Mantras, and recordkeeping as it pertains to all. 
 

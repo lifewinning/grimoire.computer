@@ -11,6 +11,8 @@ Ingrid and Meredith have worked feverishly/carefully to translate and interpret 
 
 ### [Actors of the Realm](covens/) 
 
+### [Stories of the Coven](covens/coven-stories/)
+
 ### [Instruments of the Realm](instruments/)
 
 ### [Key Terms](terms/)
