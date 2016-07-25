@@ -1,0 +1,59 @@
+body{
+  background-color: papayawhip;
+}
+
+path.spiral {fill: none;}
+
+.arc-text {
+font: 11px "bodoni-urw", serif;
+text-transform: uppercase;
+font-weight: 100;
+letter-spacing: 36;
+}
+
+h1 {
+  text-align: center;
+  font: 48px "bodoni-urw", serif;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.slogan{
+	font: 11px "bodoni-urw", serif;
+	color:white;
+	text-transform: uppercase;
+	font-weight: 800;
+	letter-spacing: 36;
+}
+
+.center{
+	font: 22px "bodoni-urw";
+	font-weight: 800;
+	text-transform: uppercase; 
+	text-anchor: middle;
+  	pointer-events: none;
+}
+
+.hover{
+position: absolute;               
+width: 225px;
+opacity: .95;       
+padding: 5px;       
+background: black; 
+border: 0px;
+color: white;      
+font: 18px "bodoni-urw";
+text-transform: uppercase; 
+text-align: center;       
+
+}
+.sigil{
+	margin: 25px;
+}
+
+#flex{
+  display: flex;
+  align-items:center;
+  flex-wrap: wrap;
+  justify-content:center;
+}
